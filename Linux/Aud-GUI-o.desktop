@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Aud-GUI-o
+Comment=Zum herunterladen von Liedern von YouTube und anderen Plattformen.
+Exec=bash /Pfad/zu/Aud-GUI-o.sh
+Icon=/Pfad/zum/Icon.png
+Terminal=false
+Type=Application
+Categories=Network;
